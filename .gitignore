@@ -1,0 +1,10 @@
+# Ignore secrets
+config.py
+.env
+
+# Ignore virtual environment
+virtual/
+
+# Ignore cache
+__pycache__/
+*.pyc
